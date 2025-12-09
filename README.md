@@ -182,6 +182,6 @@ Deploy via Power BI Service and build automated refresh pipelines
 **📬 Contact**
 
 Email = aabeer.au@gmail.com
-Linkedin profile = https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B%2Fi8kXoLpQumB%2BSAFn7xyfA%3D%3D
+Linkedin profile = www.linkedin.com/in/ali-abeer-522289357
 
 
